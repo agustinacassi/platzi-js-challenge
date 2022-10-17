@@ -1,3 +1,11 @@
+# Reto de Programación - Comercio en línea con JavaScript
+
+Reto que me permitió conseguir la beca para ingresar al Ethereum Developer Program de Platzi.
+
+El reto consistió en consumir una fakeAPI para obtener los productos de un e-commerce y crear su pagination con HTML, Intersection Observer y localStorage.
+
+####
+
 # PlatziStore
 
 Somos comercio en línea con una gran cantidad de productos a comercializar. Estamos por lanzar nuestra implementación y necesitamos resolver los problemas que presenta nuestra aplicación.
