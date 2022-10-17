@@ -2,7 +2,7 @@
 
 Reto que me permitió conseguir la beca para ingresar al Ethereum Developer Program de Platzi.
 
-El reto consistió en consumir una fakeAPI para obtener los productos de un e-commerce y crear su pagination con HTML, Intersection Observer y localStorage.
+El reto consistió en consumir una fakeAPI para obtener los productos de un e-commerce y crear su pagination con HTML, Intersection Observer y localStorage, como así también su deployment.
 
 ####
 
